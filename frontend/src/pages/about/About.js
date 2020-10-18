@@ -15,13 +15,11 @@ return (<Container>
                     <Link to="/" className="btn btn-secondary btn-lg ml-auto">Go Back</Link>
                 </div>
                 <hr/>
-                <p>With the rise of police brutality and the Black Lives Matter movement, it is
-                becoming abundantly clear that certain problems are not handled well by the police
-                and would best be handled by specialized professionals. Because people tend to be reluctant
-                to call the police for almost any problem, we created ERA to allow people to easily get access
-                to police alternative resources that would be most effective for their problems, while simultaneously
-                reducing the load on local law enforcement so they can focus on the real emergencies that require their
-                attention.</p>
+                <p>ERA is an online directory of local resources available as alternatives to calling the police or 911.
+                We seek to provide easy access get support in non-emergency situations. Our goal is to focus on resources
+                that provide the necessary service to best target the type of immediate concern. ERA provides listings for
+                resources that provide emergency or crisis services related to homelessness, mental health, domestic violence,
+                sexual assault, substance abuse, and child abuse.</p>
                 <p> Based on the user&apos;s location, ERA gives a list of police alternative resources for specific
                 categories such as domestic violence, mental health, homelessness, and more.</p>
             </Jumbotron>
